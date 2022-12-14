@@ -1,2 +1,2 @@
 # Books
-Books that I use as resources on related topics
+The books that I use as resources on related topics
